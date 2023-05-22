@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20Github%20Profile&fontSize=90)
- # My Github 
+<hr />
+ # My Github Profile
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![KongMinHyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=KongMinHyeok&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/KongMinHyeok/github-readme-stats)
+![KongMinHyeok's github stats](https://github-readme-stats.vercel.app/api?username=KongMinHyeok&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongMinHyeok&layout=compact&theme=tokyonight)
 </div>
 <!--
