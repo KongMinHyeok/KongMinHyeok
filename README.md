@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%Github%Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20Github%20Profile&fontSize=90)
  # My Github 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 [![KongMinHyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=KongMinHyeok&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/KongMinHyeok/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongMinHyeok&layout=compact&theme=tokyonight)
 </div>
 <!--
 **KongMinHyeok/KongMinHyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
