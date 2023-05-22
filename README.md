@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My Github Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%Github%Profile&fontSize=90)
  # My Github 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
