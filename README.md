@@ -28,10 +28,10 @@
 </p>
    <br/>
 <h3 align="center">📭 Contacts 📭</h3>
-
+<p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:rhdalsgur76@gmail.com)
 [<img src='https://i.namu.wiki/i/71LLWgHgPBkFhyip-XI3gWL0eFwZPPgET94m1TDIM2_-juDsd-7mbi1q0utirpuONrLKoe0KMUsWGrlesGM2o8w5hADTxYVK-fDcYtZM6JgDW8aLB26bEDn2F2FqbT1GUshzH0_CmBAwrMW76ekdzw.svg' alt='mail-dot-ru' height='40'>](https://min0407.tistory.com)
-
+</p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
