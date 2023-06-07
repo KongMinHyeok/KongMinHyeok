@@ -28,7 +28,7 @@
 <h3 align="center">📭 Contacts 📭</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp 
-  ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhdalsgur76@gmail.com)(mailto:rhdalsgur76@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhdalsgur76@gmail.com)](mailto:rhdalsgur76@gmail.com)
  <a href="https://min0407.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
 
