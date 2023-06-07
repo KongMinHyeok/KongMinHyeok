@@ -22,15 +22,14 @@
   <img src="https://img.shields.io/badge/V%20S%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
 
 </p>
    <br/>
 <h3 align="center">📭 Contacts 📭</h3>
 <div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:rhdalsgur76@gmail.com)
-[<img src='https://i.namu.wiki/i/71LLWgHgPBkFhyip-XI3gWL0eFwZPPgET94m1TDIM2_-juDsd-7mbi1q0utirpuONrLKoe0KMUsWGrlesGM2o8w5hADTxYVK-fDcYtZM6JgDW8aLB26bEDn2F2FqbT1GUshzH0_CmBAwrMW76ekdzw.svg' alt='mail-dot-ru' height='40'>](https://min0407.tistory.com)
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp(mailto:rhdalsgur76@gmail.com)
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://min0407.tistory.com/)](https://min0407.tistory.com/)
 </div>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
