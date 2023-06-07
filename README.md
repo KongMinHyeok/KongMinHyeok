@@ -27,9 +27,8 @@
    <br/>
 <h3 align="center">📭 Contacts 📭</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp(mailto:rhdalsgur76@gmail.com)
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://min0407.tistory.com/)](https://min0407.tistory.com/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhdalsgur76@gmail.com)](mailto:rhdalsgur76@gmail.com)
+ <a href="https://min0407.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
