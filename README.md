@@ -39,7 +39,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongMinHyeok&layout=compact&theme=tokyonight)
 </div>
 
-<h3 align="center">🎨현재 배포한 프로젝트는 폐쇠하고있습니다.🎨</h3>
+<h3 align="center">🎨프로젝트는 AWS로 배포했으며 현재 폐쇠하고있습니다.🎨</h3>
 <!--
 **KongMinHyeok/KongMinHyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
